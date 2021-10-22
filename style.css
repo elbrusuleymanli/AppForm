@@ -1,0 +1,59 @@
+body {
+    background-image: linear-gradient(to right top, #12ebbc, #12ebbc, #12ebbc, #12ebbc, #12ebbc);
+    width: 100%;
+}
+
+.application {
+    width: 60%;
+    padding-top: 2rem;
+    margin-left: 23rem;
+    padding-bottom: 18rem;
+}
+
+form {
+    position: relative;
+    background-color: white;
+    padding-left: 50px;
+}
+
+.info input {
+    width: 5rem;
+}
+
+.grad input {
+    width: 1.1rem;
+}
+
+.Name input {
+    width: 18rem;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    padding-top: 2rem;
+    font-size:2.2rem;
+}
+
+label {
+    font-size: 25px;
+    color: black;
+}
+
+input {
+    height: 25px;
+}
+
+button {
+    position: absolute;
+    left: 50%;
+    bottom: 5%;
+    height: 50px;
+    width: 110px;
+    background-color: rgb(11, 125, 170);
+    font-size: 20px;
+    cursor: pointer;
+    border: 3px solid rgb(102, 101, 101);
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
